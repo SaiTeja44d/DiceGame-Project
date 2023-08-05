@@ -18,7 +18,7 @@ h1 {
   margin: 30px;
   font-family: 'Tahoma', Fantasy;
   text-shadow: 5px 0 #374b66;
-  font-size: 6rem;
+  font-size: 5rem;
   color: #f2ff00;
 }
 h2 {
@@ -37,6 +37,12 @@ p {
 
 img {
   width: 80%;
-  
 }
+
+.btn{
+  background-color: #001e4e;
+  border : none;
+}
+
+
 
